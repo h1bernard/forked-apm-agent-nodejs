@@ -1,7 +1,5 @@
 # Elastic APM Node.js Agent
 
-Forked changed
-
 This is the official Node.js agent for [Elastic APM](https://www.elastic.co/solutions/apm).
 
 If you have any feedback or questions,
